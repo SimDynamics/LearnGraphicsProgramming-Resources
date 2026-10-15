@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "artifactContract": "EnglishAuxResources.artifacts",
+  "purpose": "Public HTTPS distribution of the eight unmodified, SHA-256-pinned FP32 conversions.",
+  "totalArtifactBytes": 12915892,
+  "resources": [
+    {
+      "fileName": "en_gb_bart_decoder.onnx",
+      "bytes": 1737441,
+      "sha256": "aa31f579ab8b75ec0f6571a4e85b15d0f501f2fea2415b77fbd000f1950e34be",
+      "url": "https://github.com/SimDynamics/LearnGraphicsProgramming-Resources/releases/download/english-misaki-fp32-v1/en_gb_bart_decoder.onnx"
+    },
+    {
+      "fileName": "en_gb_bart_encoder.onnx",
+      "bytes": 1415363,
+      "sha256": "bef604b9a32df6a270a3abc9641da78e74f3d57dfcaf6ed1a500085758bbedc0",
+      "url": "https://github.com/SimDynamics/LearnGraphicsProgramming-Resources/releases/download/english-misaki-fp32-v1/en_gb_bart_encoder.onnx"
+    },
+    {
+      "fileName": "en_gb_bart.json",
+      "bytes": 1015,
+      "sha256": "42176b75d06462a383549aabc84451974c70f5abf5cd00013a872332252b1fdc",
+      "url": "https://github.com/SimDynamics/LearnGraphicsProgramming-Resources/releases/download/english-misaki-fp32-v1/en_gb_bart.json"
+    },
+    {
+      "fileName": "en_us_bart_decoder.onnx",
+      "bytes": 1737441,
+      "sha256": "9e940b23aea9afa51196e40e47faf81ce14fb8663d513bc5fdae9cb1c29c63c0",
+      "url": "https://github.com/SimDynamics/LearnGraphicsProgramming-Resources/releases/download/english-misaki-fp32-v1/en_us_bart_decoder.onnx"
+    },
+    {
+      "fileName": "en_us_bart_encoder.onnx",
+      "bytes": 1415363,
+      "sha256": "4191ca322086422164f652bdaeab2bf2c2a46c79b7e77126242ba28fe10fb195",
+      "url": "https://github.com/SimDynamics/LearnGraphicsProgramming-Resources/releases/download/english-misaki-fp32-v1/en_us_bart_encoder.onnx"
+    },
+    {
+      "fileName": "en_us_bart.json",
+      "bytes": 1019,
+      "sha256": "c76a6851fffbca82f4856d331e478758d168bc9b8f0d51a57290ea9f344395ab",
+      "url": "https://github.com/SimDynamics/LearnGraphicsProgramming-Resources/releases/download/english-misaki-fp32-v1/en_us_bart.json"
+    },
+    {
+      "fileName": "spacy_pos.json",
+      "bytes": 316435,
+      "sha256": "99d3610a6e997705627bdf7ee271af72aa61131bb4d1c48acf267d732eef1d01",
+      "url": "https://github.com/SimDynamics/LearnGraphicsProgramming-Resources/releases/download/english-misaki-fp32-v1/spacy_pos.json"
+    },
+    {
+      "fileName": "spacy_pos.onnx",
+      "bytes": 6291815,
+      "sha256": "c5cc2867055c09b2825cf5370d171fbd46c085bd4e03e3f238a030b81ba86399",
+      "url": "https://github.com/SimDynamics/LearnGraphicsProgramming-Resources/releases/download/english-misaki-fp32-v1/spacy_pos.onnx"
+    }
+  ],
+  "attributionDirectory": "payload/licenses",
+  "provenance": "payload/provenance.json",
+  "release": "https://github.com/SimDynamics/LearnGraphicsProgramming-Resources/releases/tag/english-misaki-fp32-v1"
+}
